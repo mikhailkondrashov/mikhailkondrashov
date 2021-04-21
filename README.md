@@ -2,6 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/mikhail-kondrashov)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihailkondrashov&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=BankSystemMicroServices)](https://github.com/mihailkondrashov/BankSystemMicroServices)
 <!--
 **mihailkondrashov/mihailkondrashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
