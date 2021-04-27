@@ -8,6 +8,7 @@ Want to know more about me? [Check out my portfolio.](file/Резюме%20Кон
 
 ## 📌 Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=BankSystemMicroServices&theme=vue)](https://github.com/mihailkondrashov/BankSystemMicroServices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=ClientServerApplication&theme=vue)](https://github.com/mihailkondrashov/ClientServerApplication)
 ## &#x1f4c8; GitHub Stats
 <br>
 <a href="https://github.com/mihailkondrashov">
@@ -26,8 +27,10 @@ Want to know more about me? [Check out my portfolio.](file/Резюме%20Кон
 ![](https://img.shields.io/badge/Code-Maven-informational?style=flat&logo=Maven&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringData-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-log4j2-informational?style=flat&logo=log4j2&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
