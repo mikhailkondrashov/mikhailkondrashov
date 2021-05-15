@@ -31,6 +31,7 @@ Want to know more about me? [Check out my portfolio.](file/Резюме%20Кон
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-log4j2-informational?style=flat&logo=log4j2&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
