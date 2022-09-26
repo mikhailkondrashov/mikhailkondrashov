@@ -4,7 +4,7 @@
 <br>
 I`m Mikhail Kondrashov, Java Software Engineer from Saint-Petersburg, Russia. In 2018 I graduated the master's program of Tomsk Polytechnic University with "Automated systems of dispatch control" direction.
 
-Want to know more about me? [Check out my portfolio.](file/Резюме%20Кондрашов%20М.А.pdf)
+Want to know more about me? [Check out my CV.](file/Резюме%20Кондрашов%20М.А.pdf)
 
 ## 📌 Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=BankSystemMicroServices&theme=vue)](https://github.com/mihailkondrashov/BankSystemMicroServices)
