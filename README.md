@@ -10,6 +10,7 @@ Want to know more about me? [Check out my CV.](file/Резюме%20Кондра�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=BankSystemMicroServices&theme=vue)](https://github.com/mihailkondrashov/BankSystemMicroServices)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=ClientServerApplication&theme=vue)](https://github.com/mihailkondrashov/ClientServerApplication)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=Algorithms&theme=vue)](https://github.com/mihailkondrashov/Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=LoadBalancer&theme=vue)](https://github.com/mihailkondrashov/loadBalancer)
 ## &#x1f4c8; GitHub Stats
 <br>
 <a href="https://github.com/mihailkondrashov">
