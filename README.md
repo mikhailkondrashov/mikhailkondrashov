@@ -7,17 +7,17 @@ I`m Mikhail Kondrashov, Java Software Engineer from Saint-Petersburg, Russia. In
 Want to know more about me? [Check out my CV.](file/Резюме%20Кондрашов%20М.А.pdf)
 
 ## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=BankSystemMicroServices&theme=vue)](https://github.com/mihailkondrashov/BankSystemMicroServices)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=ClientServerApplication&theme=vue)](https://github.com/mihailkondrashov/ClientServerApplication)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=Algorithms&theme=vue)](https://github.com/mihailkondrashov/Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihailkondrashov&repo=LoadBalancer&theme=vue)](https://github.com/mihailkondrashov/loadBalancer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikhailkondrashov&repo=BankSystemMicroServices&theme=vue)](https://github.com/mikhailkondrashov/BankSystemMicroServices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikhailkondrashov&repo=ClientServerApplication&theme=vue)](https://github.com/mikhailkondrashov/ClientServerApplication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikhailkondrashov&repo=Algorithms&theme=vue)](https://github.com/mikhailkondrashov/Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikhailkondrashov&repo=LoadBalancer&theme=vue)](https://github.com/mikhailkondrashov/loadBalancer)
 ## &#x1f4c8; GitHub Stats
 <br>
-<a href="https://github.com/mihailkondrashov">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkondrashov&hide=CSharp&title_color=41b883&text_color=273849&icon_color=41b883&bg_color=fffefe" />
+<a href="https://github.com/mikhailkondrashov">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailkondrashov&hide=CSharp&title_color=41b883&text_color=273849&icon_color=41b883&bg_color=fffefe" />
 </a>
-<a href="https://github.com/mihailkondrashov">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihailkondrashov&show_icons=true&&theme=vue&hide=issues,contribs"/>
+<a href="https://github.com/mikhailkondrashov">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikhailkondrashov&show_icons=true&&theme=vue&hide=issues,contribs"/>
 </a>
 <br>
 <br>
